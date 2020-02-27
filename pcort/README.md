@@ -7,8 +7,6 @@ My projects are as follows:
 2. Which cadence is optimal for me! Looking at things like HR drift over time at specific cadences and power zones. 
 
 
-
-
 I'm also going to try and set this up to be usable by anybody and everyone who wants to play with it. 
 
 1. Install Python 3
